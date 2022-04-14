@@ -2,7 +2,7 @@
 
 I'm Alex, a dev based in Paris, France.
 
-<img src="https://avatars.githubusercontent.com/u/12850311?s=200&v=4" width="30" height="30"> I am the tech lead at [FabMob](https://github.com/fabmob), ping me if you want to contribute to cool open source projects around mobility challenges.
+<img src="https://avatars.githubusercontent.com/u/12850311?s=200&v=4" width="30" height="30"> I am the tech lead at [FabMob](https://github.com/fabmob), ping me if you want to contribute on cool open source projects around mobility challenges.
 
 ---
 
